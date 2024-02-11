@@ -1,0 +1,3 @@
+In Python you can loop through lists
+In Python you can easily create lists and tuples
+In Python you can turn strings into int

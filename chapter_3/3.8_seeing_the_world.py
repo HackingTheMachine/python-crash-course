@@ -1,0 +1,12 @@
+places = ["Tokyo", "New York", "Sidney", "Beijing", "Moscow"]
+print(places)
+print(sorted(places))
+print(places)
+print(sorted(places, reverse=True))
+print(places)
+print(places.reverse())
+print(places)
+print(places.reverse())
+print(places)
+print(places.sort())
+print(places.sort(reverse=True))

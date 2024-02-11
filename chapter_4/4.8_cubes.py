@@ -1,0 +1,3 @@
+cubes = [1,2,3,4,5,6,7,8,9,10]
+for cube in cubes:
+    print(cube**3)
